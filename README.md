@@ -1,4 +1,4 @@
-# Module 4 - Beginner Lab: Ethereum Basics
+# Module 4 - Beginner Lab: Installing Truffle
 
 ## Background
 
