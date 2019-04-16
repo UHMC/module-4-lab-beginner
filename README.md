@@ -1,18 +1,19 @@
 # Module 4 - Beginner Lab: Installing Truffle
 
 ## Background
+Truffle is a development framework for Ethereum.
 
 ## Meta Information
 | Attribute | Explanation |
 | - | - |
-| Summary |  |
-| Topics |  |
-| Audience |  |
-| Difficulty |  |
-| Strengths |  |
-| Weaknesses |  |
-| Dependencies |  |
-| Variants |  |
+| Summary | We'll install Truffle now for use in future labs. |
+| Topics | Python, Node.js, Truffle, Ethereum |
+| Audience | CS1 or later. |
+| Difficulty | Beginner. |
+| Strengths | Installs a development framework. |
+| Weaknesses | Only installs a development framework. |
+| Dependencies | Internet connected computer, Python, Node.js |
+| Variants | There is a second lab for installation of Ganache. |
 
 ## Assignment Instructions
 1. [Install Python][python-install]
