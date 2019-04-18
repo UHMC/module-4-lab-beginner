@@ -20,7 +20,7 @@ Truffle is a development framework for Ethereum.
     * If installing on Windows, be sure to put a check in the "Add Python #.# to PATH" box.
 2. [Install Node.js][nodejs-install]
     * Ensure that npm was installed by typing `npm -v` in a terminal or command prompt; you should see a version number such as 6.4.1.
-3. Install Truffle with the command `npm install truffle -g`.
+3. [Install Truffle][truffle-install]
     * Verify the install by typing `truffle help` in a terminal or command prompt; you should see a help printout.
 
 ## Credits
@@ -30,3 +30,4 @@ Saxon Knight
 
 [python-install]: https://www.python.org/downloads/
 [nodejs-install]: https://nodejs.org/en/download/package-manager/
+[truffle-install]: https://truffleframework.com/truffle
