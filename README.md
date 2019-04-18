@@ -21,6 +21,7 @@ Truffle is a development framework for Ethereum.
 2. [Install Node.js][nodejs-install]
     * Ensure that npm was installed by typing `npm -v` in a terminal or command prompt; you should see a version number such as 6.4.1.
 3. [Install Truffle][truffle-install]
+    * If installing on Linux, you may need to use sudo to overcome write-permission errors. If the installation completes, you should be able to ignore any of the remaining errors.
     * Verify the install by typing `truffle help` in a terminal or command prompt; you should see a help printout.
 
 ## Credits
