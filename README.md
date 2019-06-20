@@ -15,7 +15,7 @@ Truffle is a development framework for Ethereum.
 | Dependencies | Internet connected computer, Python, Node.js. |
 | Variants | There is a later lab for installation of Ganache. |
 
-## Assignment Instructions
+## Assignment Instructions (20 Minutes)
 1. [Install Python][python-install]
     * If installing on Windows, be sure to put a check in the "Add Python #.# to PATH" box.
 2. [Install Node.js][nodejs-install]
